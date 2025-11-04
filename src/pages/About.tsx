@@ -30,7 +30,7 @@ const About = () => {
         <strong>NIM:</strong> 105012310034
       </p>
       <p className="text-gray-700 mb-2">
-        <strong>Tingkat:</strong> 4
+        <strong>Tingkat:</strong> 3
       </p>
       <p className="text-gray-700 mb-6">
         <strong>Semester:</strong> 5
